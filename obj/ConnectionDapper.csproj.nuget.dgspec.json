@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj": {}
+    "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj": {}
   },
   "projects": {
-    "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj": {
+    "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
+        "projectUniqueName": "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
         "projectName": "ConnectionDapper",
-        "projectPath": "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
+        "projectPath": "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
         "packagesPath": "C:\\Users\\FlpSlva\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\obj\\",
+        "outputPath": "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FlpSlva\\AppData\\Roaming\\NuGet\\NuGet.Config",

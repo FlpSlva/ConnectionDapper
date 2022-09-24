@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Val8Fc7lBgB/rEzBT3PlsJUtJObUpiXoaHhkWKZeLAk0/j/aLn+EXIcI76B8LJaejmOzMqCfyEMCDv8PqEuFiQ==",
+  "dgSpecHash": "JfFLUFJuO6nANXiZsQlkfEsPDRVtocOUVDs7YphGxexywjRlvPBeLFEzQckga0KAYJnWhugum3ePpOojVp5m5g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
+  "projectFilePath": "C:\\Users\\FlpSlva\\Desktop\\ConnectionDapper\\ConnectionDapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FlpSlva\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\FlpSlva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
